@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Minecraft related projects
 - 🌱 I’m currently learning Java
+
+
+![dance-dog](https://github.com/SmallSmallXD/SmallSmallXD/assets/88341721/6a8847f6-ced9-45da-a487-4a5090002cab)
