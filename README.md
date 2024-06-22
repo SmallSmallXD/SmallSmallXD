@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![dance-dancing](https://github.com/SmallSmallXD/SmallSmallXD/assets/88341721/c330bb21-438b-4d72-af02-2ef953862172)
-
-
 - 🔭 I’m currently working on Minecraft related projects
 - 🌱 I’m currently learning Java
 
