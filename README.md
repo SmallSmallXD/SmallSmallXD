@@ -1,20 +1,41 @@
-## Hi there 👋
+<h2 align="left">Hi! My name is Small  and I'm from Sweden!</h2>
 
-<!--
-**SmallSmallXD/SmallSmallXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m currently working on Minecraft related projects
-- 🌱 I’m currently learning Java
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smallsmallxd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
--->
+###
 
-Currently not working on any projects.
+<h4 align="left">There is not really much to show here :P</h4>
 
-![dance-dog](https://github.com/SmallSmallXD/SmallSmallXD/assets/88341721/6a8847f6-ced9-45da-a487-4a5090002cab)
+###
+
+<p align="left">Languages I develop in</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<p align="left">Contact information</p>
+
+###
+
+<div align="left">
+  <a href="smallpersonal@proton.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/smallsmallxd/smallsmallxd/output/snake.svg" alt="Snake animation" />
+
+###
