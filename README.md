@@ -22,18 +22,3 @@
 
 ###
 
-<p align="left">Contact information</p>
-
-###
-
-<div align="left">
-  <a href="smallpersonal@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/smallsmallxd/smallsmallxd/output/snake.svg" alt="Snake animation" />
-
-###
