@@ -1,24 +1,25 @@
-<h2 align="left">Hi! My name is Small  and I'm from Sweden!</h2>
+# 👋 Hi, I'm Small
 
-###
+🇸🇪 I'm a developer from **Sweden**  
+💻 I mainly work with **Java** and **C#**  
+🐧 I use **Arch Linux** as my daily driver
 
+---
 
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,linux" height="40" />
+</p>
 
-###
+---
 
-<h4 align="left">There is not really much to show here :P</h4>
+### 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SmallGiganiga&show_icons=true&theme=transparent&hide_title=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmallGiganiga&theme=transparent" height="150" />
+</p>
 
-###
+---
 
-<p align="left">Languages I develop in</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
+### 💬 About Me
+- 🎵 I enjoy listening to music & playing games during my free time
