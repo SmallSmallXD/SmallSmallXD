@@ -13,7 +13,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats (broken lol)
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SmallGiganiga&show_icons=true&theme=transparent&hide_title=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmallGiganiga&theme=transparent" height="150" />
