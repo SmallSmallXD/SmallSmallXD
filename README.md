@@ -13,13 +13,5 @@
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SmallSmallXD&show_icons=true&theme=transparent&hide_title=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmallSmallXD&theme=transparent" height="150" />
-</p>
-
----
-
 ### 💬 About Me
 - 🎵 I enjoy listening to music & playing games during my free time
